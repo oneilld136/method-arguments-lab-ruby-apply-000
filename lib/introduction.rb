@@ -1,5 +1,4 @@
-# I call on the method, introduction, and give it to the string "Hi, my name is "Josh"
+# lib/introduction.rb
 
-def introduction (name = "Josh")
-  puts "Hi, my name is #{name}."
+def introduction
 end
