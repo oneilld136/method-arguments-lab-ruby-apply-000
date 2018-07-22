@@ -1,6 +1,6 @@
-#introduction
+#introduction_with_language
 
-def introduction ("Josh")
+def introduction (name="Josh")
   puts "Hi, my name is #{name.}
 end
 
